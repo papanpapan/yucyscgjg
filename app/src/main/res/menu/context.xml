@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/option1"
+    android:title="Label 1"
+    android:icon="@android:drawable/ic_dialog_alert"
+/>
+
+<item
+    android:id="@+id/option2"
+    android:title="Label 2"
+    android:icon="@android:drawable/btn_star_big_on"
+/>
+
+</menu>
